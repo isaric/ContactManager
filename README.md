@@ -8,3 +8,6 @@ The contact manager application holds Employee, Customer, Company and Product re
 A company has zero or more customers.
 A company has zero or more employees.
 A company has zero or more Products.
+
+
+![Contact Manager Structure](./contact_manager.png)
